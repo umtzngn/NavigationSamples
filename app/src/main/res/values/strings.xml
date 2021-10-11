@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Navigation Samples</string>
+    <string name="merhabalar">WELCOME</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="loggin_background">loggin_background</string>
+    <string name="log_in">SIGN IN</string>
+    <string name="don_t_have_to_account">DON\'T HAVE TO ACCOUNT?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="date_of_birthday">Date of birthday</string>
+    <string name="today">Today</string>
+    <string name="home_screen">home_screen</string>
+    <string name="age">Age</string>
+    <string name="age_edit">AGE</string>
+    <string name="month">month</string>
+    <string name="days">days</string>
+    <string name="age_button">Button</string>
+    <string name="today_hint">Today</string>
+    <string name="sign_in_background">sign_in_background</string>
+    <string name="email">Email</string>
+    <string name="join_us_button">Join us</string>
+    <string name="google">google</string>
+    <string name="facebook">facebook</string>
+    <string name="welcomescreen">welcomescreen</string>
+    <string name="push">Push</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
